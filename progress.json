@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:51:28.585Z",
+  "generated_at": "2026-10-15T19:51:31.783Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -105,6 +105,58 @@
       "last_pushed_at": "2026-10-09T23:05:21.730Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1213": {
+      "kind": "problem",
+      "id": "1213",
+      "title": "1D Kalman Filter Predict-Update Step",
+      "difficulty": "medium",
+      "category": "Robotics",
+      "url": "https://www.deep-ml.com/problems/1213",
+      "path": "problems/1213-1d-kalman-filter-predict-update-step",
+      "first_solved_at": "2026-10-10T20:05:10.725Z",
+      "last_pushed_at": "2026-10-10T20:05:10.725Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-10T20:25:20.374Z",
+      "last_pushed_at": "2026-10-10T20:25:20.374Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-10-10T20:55:08.202Z",
+      "last_pushed_at": "2026-10-10T20:55:08.202Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-10T21:22:25.757Z",
+      "last_pushed_at": "2026-10-10T21:22:25.757Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
