@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 7 problems · 0 labs · 6 math
+**14** solved · 7 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [1D Kalman Filter Predict-Update Step](https://www.deep-ml.com/problems/1213) | medium | 2026-10-10 | [solution](problems/1213-1d-kalman-filter-predict-update-step) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-10 | [solution](problems/0017-k-means-clustering) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-09 | [solution](problems/0842-standardscaler-fit-and-transform) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-10-15 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ## Math
 
